@@ -3,6 +3,8 @@
 A clean, responsive footer built with HTML and CSS.  
 Designed to be reused across projects with minimal setup.
 
+**Live demo:** https://footer-component-eta.vercel.app/
+
 ## Features
 - Responsive layout (Flexbox)
 - Themeable with CSS variables
